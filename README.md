@@ -29,7 +29,7 @@ A responsive React + Vite application that fetches current weather data for any 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/weather_app_assignment.git
+git clone https://github.com/vishesh1110/weather_app_assignment.git
 cd weather-app
 npm install
 npm run dev
